@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: vprofile.mohamed-a-gouda.online
     http:
       paths:
       - path: /
